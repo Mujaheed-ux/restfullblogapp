@@ -1,0 +1,15 @@
+i.icon, i.icons{
+    font-size: 2em;
+}
+
+.ui .text .container .main{
+    margin-top: 7.0em;
+}
+
+#delete{
+    display: inline;
+}
+
+#REST{
+    margin-top: 40px;
+}
